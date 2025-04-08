@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "theFootyDataWorkerService", "theFootyDataWorkerService.csproj", "{872CAF34-3F76-73C9-BDD8-09052992BF8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872CAF34-3F76-73C9-BDD8-09052992BF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872CAF34-3F76-73C9-BDD8-09052992BF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872CAF34-3F76-73C9-BDD8-09052992BF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872CAF34-3F76-73C9-BDD8-09052992BF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B55CD0C2-605A-428F-8977-F5E5FDEEBFED}
+	EndGlobalSection
+EndGlobal
